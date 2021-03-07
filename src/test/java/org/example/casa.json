@@ -1,0 +1,26 @@
+{
+  "propietario": {
+    "nombre": "Andres",
+    "apellido": "Guerrero"
+  },
+  "pisos": [
+    {
+      "banios": [
+        {
+          "cantidadLavamanos": 2,
+          "cantidadDuchas": 1
+        },
+        {
+          "cantidadLavamanos": 1,
+          "cantidadDuchas": 0
+        }
+      ],
+      "nombre": "entrada"
+    },
+    {
+      "banios": [],
+      "nombre": ""
+    }
+  ],
+  "direccion": "Calle 17BN No. 14-21"
+}
